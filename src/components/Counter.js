@@ -3,7 +3,7 @@ import React from 'react'
 export default function Counter({count, increment, decrease}){
     
     return (
-        <div>
+        <div id="box">
             {console.log(increment)}
             <h2>{count}</h2>
             <button onClick = {decrease} >-</button>
