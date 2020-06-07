@@ -8,7 +8,7 @@
 }
 
 #box {
-  box-shadow: 5px 10px #888888;
+  box-shadow: 10px 5px 5px red;
 }
 
 @media (prefers-reduced-motion: no-preference) {
